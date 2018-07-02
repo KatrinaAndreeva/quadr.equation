@@ -1,6 +1,6 @@
-const a = parseInt(prompt('Enter A'));
-const b = parseInt(prompt('Enter B'));
-const c = parseInt(prompt('Enter C'));
+const a = parseFloat(prompt('Enter A'));
+const b = parseFloat(prompt('Enter B'));
+const c = parseFloat(prompt('Enter C'));
 
 function calcD(a, b, c) {
  return D = b * b - 4 * a * c;  //func for D
@@ -37,6 +37,3 @@ else if (valD > 0) {
 
 
 
-// function root1(a, b, c) {
-// 	const val1
-// }
