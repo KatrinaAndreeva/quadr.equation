@@ -22,7 +22,7 @@ let val1 = root1(a, b, c);
 let val2 = root2(a, b, c);
 
 
-if (valD < 0) {
+ if (valD < 0) {
 	alert("this example has no roots");
 }
 else if (valD == 0) {
